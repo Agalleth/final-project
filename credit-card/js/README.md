@@ -1,4 +1,4 @@
-﻿#Ceasar-code
+﻿#Credit-card
 Proyecto final
 1.-Entregar README.md explicando pseudocódigo de la solución y diagrama de flujo
 2.-Archivo app.js con el código de la solución
